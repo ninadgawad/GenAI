@@ -9,19 +9,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Introduction to E2E Testing]
-2. [What is Playwright MCP?]
-3. [Environment Setup]
-4. [Basic Concepts and Architecture]
-5. [Hands-on: Your First Test]
-6. [Advanced Features]
-7. [Best Practices]
-8. [Troubleshooting]
-9. [Q&A and Next Steps]
-
----
 
 ## 1. Introduction to E2E Testing
 
