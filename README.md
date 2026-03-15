@@ -6,4 +6,5 @@ GenAI utilizes deep learning models, like large language models (LLMs) such as t
 These models are trained on massive datasets to identify patterns and structures.
 When given a prompt, the model uses these learned patterns to predict and generate new content that mirrors the characteristics of its training data.
 
-
+Tools:
+- [Claude Code](Claude%20Code/README.md)
