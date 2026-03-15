@@ -16,4 +16,4 @@ One of the biggest advantages of Copilot is its ability to accelerate developmen
 
 However, developers should still review Copilot’s suggestions carefully. While the tool is powerful, it may occasionally produce incorrect or inefficient code. Human oversight remains essential to ensure code quality, security, and maintainability.
 
-In summary, GitHub Copilot represents a major step forward in AI-assisted software development. By combining machine learning with developer tools, it helps programmers write code more efficiently while still keeping humans in control of the final implementation.
+GitHub Copilot represents a major step forward in AI-assisted software development. By combining machine learning with developer tools, it helps programmers write code more efficiently while still keeping humans in control of the final implementation.
