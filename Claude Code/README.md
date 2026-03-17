@@ -39,3 +39,30 @@ Here are the main differences:
 Claude Code signals a shift from AI autocomplete to AI development collaboration. 
 Instead of helping write code faster, it aims to help developers think, refactor, and ship features more efficiently.
 As AI coding tools evolve, systems like Claude Code may redefine how engineers interact with large codebases—turning natural language into a powerful development interface
+
+
+# Plugin 
+```bash
+npx ccstatusline@latest
+
+```
+### Settings: 
+Line1:
+   1. Model
+   2. Separator |
+   3. Context %
+   4. Separator |
+   5. Session Cost
+   6. Separator |
+   7. Session Clock
+
+
+Line2:
+   1. Git Branch
+   2. Separator |
+   3. Git Worktree
+
+
+
+
+
